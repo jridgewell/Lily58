@@ -1,4 +1,4 @@
-23630918427512832
+23644543877234220
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62692,6 +62692,13 @@ ProMicro_rev2
 48
 24
 Lily58-footprint
+ProMicro_rev3
+
+
+0
+48
+24
+Lily58-footprint
 ProMicro_rev_1
 
 
@@ -62740,6 +62747,27 @@ TRRS_JACK_MJ4PP9
 0
 8
 4
+Lily58-footprint
+iris58_logo
+
+
+0
+0
+0
+Lily58-footprint
+iris58_logo_2
+
+
+0
+0
+0
+Lily58-footprint
+iris58_logo_Pro
+
+
+0
+0
+0
 Lily58-footprint
 jumper_data
 
@@ -62972,6 +63000,13 @@ ProMicro_rev2
 48
 24
 Lily58_Pro-footprint
+ProMicro_rev3
+
+
+0
+48
+24
+Lily58_Pro-footprint
 ProMicro_rev_1
 
 
@@ -63020,6 +63055,27 @@ TRRS_JACK_MJ4PP9
 0
 8
 4
+Lily58_Pro-footprint
+iris58_logo
+
+
+0
+0
+0
+Lily58_Pro-footprint
+iris58_logo_2
+
+
+0
+0
+0
+Lily58_Pro-footprint
+iris58_logo_Pro
+
+
+0
+0
+0
 Lily58_Pro-footprint
 jumper_data
 
