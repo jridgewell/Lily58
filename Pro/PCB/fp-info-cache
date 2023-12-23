@@ -1,4 +1,4 @@
-23644543877234220
+23664983714992632
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62531,6 +62531,13 @@ HOLE_M2
 0
 0
 Lily58-footprint
+HOLE_M2_Standoff
+
+
+0
+0
+0
+Lily58-footprint
 HOLE_M2_TH
 
 
@@ -62553,6 +62560,13 @@ connector JST PH top entry
 2
 Lily58-footprint
 Jumper
+
+
+0
+2
+2
+Lily58-footprint
+Jumper_arrow
 
 
 0
@@ -62593,6 +62607,27 @@ MX_Choc_Hotswap
 0
 12
 2
+Lily58-footprint
+MX_Choc_Hotswap_bottom_diode
+
+
+0
+30
+3
+Lily58-footprint
+MX_Choc_Hotswap_right_diode
+
+
+0
+30
+3
+Lily58-footprint
+MX_Choc_Hotswap_top_diode
+
+
+0
+30
+3
 Lily58-footprint
 MX_FLIP_HOLES
 MXALPS
@@ -62671,6 +62706,13 @@ NiceNano_rev2
 52
 26
 Lily58-footprint
+NiceView_5Pin
+Connecteur 6 pins
+CONN DEV
+0
+5
+5
+Lily58-footprint
 OLED_4Pin
 Connecteur 6 pins
 CONN DEV
@@ -62696,7 +62738,7 @@ ProMicro_rev3
 
 
 0
-48
+242
 24
 Lily58-footprint
 ProMicro_rev_1
@@ -62839,6 +62881,13 @@ HOLE_M2
 0
 0
 Lily58_Pro-footprint
+HOLE_M2_Standoff
+
+
+0
+0
+0
+Lily58_Pro-footprint
 HOLE_M2_TH
 
 
@@ -62861,6 +62910,13 @@ connector JST PH top entry
 2
 Lily58_Pro-footprint
 Jumper
+
+
+0
+2
+2
+Lily58_Pro-footprint
+Jumper_arrow
 
 
 0
@@ -62901,6 +62957,27 @@ MX_Choc_Hotswap
 0
 12
 2
+Lily58_Pro-footprint
+MX_Choc_Hotswap_bottom_diode
+
+
+0
+30
+3
+Lily58_Pro-footprint
+MX_Choc_Hotswap_right_diode
+
+
+0
+30
+3
+Lily58_Pro-footprint
+MX_Choc_Hotswap_top_diode
+
+
+0
+30
+3
 Lily58_Pro-footprint
 MX_FLIP_HOLES
 MXALPS
@@ -62979,6 +63056,13 @@ NiceNano_rev2
 52
 26
 Lily58_Pro-footprint
+NiceView_5Pin
+Connecteur 6 pins
+CONN DEV
+0
+5
+5
+Lily58_Pro-footprint
 OLED_4Pin
 Connecteur 6 pins
 CONN DEV
@@ -63004,7 +63088,7 @@ ProMicro_rev3
 
 
 0
-48
+242
 24
 Lily58_Pro-footprint
 ProMicro_rev_1
