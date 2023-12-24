@@ -1,4 +1,4 @@
-91963230964155
+95370311182541
 Lily58-footprint
 1pin_conn
 Resitance 3 pas
@@ -127,6 +127,13 @@ MX_Choc_Hotswap
 2
 Lily58-footprint
 MX_Choc_Hotswap_bottom_diode
+
+
+0
+30
+3
+Lily58-footprint
+MX_Choc_Hotswap_left_diode
 
 
 0
@@ -293,6 +300,13 @@ Reset_Button
 0
 8
 2
+Lily58-footprint
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
 Lily58-footprint
 SWITCH_ALPS_SSSS8
 ALPS Switch SSSS810701
