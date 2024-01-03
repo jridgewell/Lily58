@@ -219,8 +219,8 @@
       (gr_line (start 0 -2.5) (end -0.65 -2.45) (width 0.2))
     ) (tstamp 5f579522-1826-4614-a4ad-a39a6af9c662))
   (pad "2" smd rect (at 8.5 -2.5) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 576c43dc-8893-47ac-a67b-0be75deda1ef))
-  (pad "2" thru_hole rect (at 10.3 -2.5 270) (size 1.8 1.5) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 64ef63b9-7cd7-44dc-b51f-1a06807b6316))
-  (pad "3" thru_hole rect (at 10.3 -5.9 270) (size 1.8 1.5) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 0ede8621-f3cb-4ec2-b20a-0533232edbfd))
+  (pad "2" thru_hole rect (at 10.3 -2.5 270) (size 1.8 1.5) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 64ef63b9-7cd7-44dc-b51f-1a06807b6316))
+  (pad "3" thru_hole rect (at 10.3 -5.9 270) (size 1.8 1.5) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 0ede8621-f3cb-4ec2-b20a-0533232edbfd))
   (group "" (id a431819b-4051-45b5-afcd-b53fd65d263b)
     (members
       0ede8621-f3cb-4ec2-b20a-0533232edbfd

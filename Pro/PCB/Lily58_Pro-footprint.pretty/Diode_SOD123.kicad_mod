@@ -27,6 +27,6 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 21b53ee1-4466-49c6-90e3-3196db23a1c7))
   (fp_line (start 0.4 0.7) (end -0.5 0)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 7224910b-f926-42ef-bb29-8b004158bb2d))
-  (pad "1" thru_hole rect (at -1.7 0) (size 1.8 1.5) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 9ee94406-59dc-402e-a1f5-931fd73abac8))
-  (pad "2" thru_hole rect (at 1.7 0) (size 1.8 1.5) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 0ed0bd1a-11b6-4003-b1d8-977f7c2c5abb))
+  (pad "1" thru_hole rect (at -1.7 0) (size 1.8 1.5) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 9ee94406-59dc-402e-a1f5-931fd73abac8))
+  (pad "2" thru_hole rect (at 1.7 0) (size 1.8 1.5) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 0ed0bd1a-11b6-4003-b1d8-977f7c2c5abb))
 )

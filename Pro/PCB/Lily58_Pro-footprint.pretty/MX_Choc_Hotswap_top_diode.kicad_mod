@@ -173,7 +173,7 @@
     (primitives
       (gr_line (start 0 -1.4) (end 0 0) (width 0.2))
     ) (tstamp 9c6643da-c73c-4e51-8390-d23983e7f52a))
-  (pad "2" thru_hole rect (at 1.75 -8) (size 1.8 1.5) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 64ef63b9-7cd7-44dc-b51f-1a06807b6316))
+  (pad "2" thru_hole rect (at 1.75 -8) (size 1.8 1.5) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 64ef63b9-7cd7-44dc-b51f-1a06807b6316))
   (pad "2" smd custom (at 2.3 5.1) (size 0.2 0.2) (layers "B.Cu")
     (thermal_bridge_angle 90)
     (options (clearance outline) (anchor circle))
@@ -220,7 +220,7 @@
       (gr_line (start 0 0) (end 0 -0.4) (width 0.2))
     ) (tstamp 1ea030ca-b2f2-4554-b4de-43cbc0675807))
   (pad "2" smd rect (at 8.5 -2.5) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 576c43dc-8893-47ac-a67b-0be75deda1ef))
-  (pad "3" thru_hole rect (at -1.65 -8) (size 1.8 1.5) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 0ede8621-f3cb-4ec2-b20a-0533232edbfd))
+  (pad "3" thru_hole rect (at -1.65 -8) (size 1.8 1.5) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 0ede8621-f3cb-4ec2-b20a-0533232edbfd))
   (group "" (id a431819b-4051-45b5-afcd-b53fd65d263b)
     (members
       0ede8621-f3cb-4ec2-b20a-0533232edbfd
